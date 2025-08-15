@@ -1,1 +1,2 @@
 Build/spblackbelt.data.unityweb filter=lfs diff=lfs merge=lfs -text
+Build/EXACT_FILE_NAME.data.unityweb filter=lfs diff=lfs merge=lfs -text
